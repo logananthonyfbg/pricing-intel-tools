@@ -1,0 +1,46 @@
+0ca7f889-d736-4b44-93c2-876d0ed8b78a :: 2cbb8a36-3a55-4560-ab35-2d97101367f5 :: 2025-08-14T13:21:01.000 :: 3773188 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755177660000,"IsInPlay":true,"FeedVersion":5257,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":3,"Venue":{}}
+0504ed67-9fe0-414f-9c9a-1162fff7e13e :: 7b30244f-db59-4add-a0d9-71806f2b7181 :: 2025-08-14T18:35:33.000 :: 3781332 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755177660000,"IsInPlay":false,"FeedVersion":34620,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":1,"Venue":{}}
+0c541b1d-9353-49f9-893e-79df44295b39 :: cf8a14a9-da63-48b4-b23e-2bc5741e89be :: 2025-08-14T20:49:04.000 :: 3782291 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755177660000,"IsInPlay":true,"FeedVersion":34802,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":3,"Venue":{}}
+7c1db74e-f596-4b3e-a3de-ab0ba4a5d589 :: ed618e58-600e-4c23-ac71-ba35eb29c883 :: 2025-08-14T20:53:21.000 :: 3782421 :: FixtureCreated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755177660000,"Name":"BMW Championship 2025","Sport":{"Id":23,"Name":"Golf"},"Competition":{"Id":140000001127,"Name":""},"FeedVersion":0,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"IsInPlay":true,"Status":3,"Venue":{}}
+87ade1df-f1e9-402c-b2d9-5ba8d5467613 :: 4dc63cfc-a8b2-4a69-a721-e0d357fd2a4a :: 2025-08-14T20:53:21.000 :: 3782425 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755177660000,"IsInPlay":true,"FeedVersion":35233,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":3,"Venue":{}}
+4f421960-ba65-4a58-9cf4-fe83d498a5f6 :: bf3f4b24-487c-4bfa-a0b6-7676d8a8ec51 :: 2025-08-15T00:12:38.000 :: 3787478 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755177660000,"IsInPlay":false,"FeedVersion":54387,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":1,"Venue":{}}
+3f1a5e9a-33ed-43e5-baaf-e0dd05826a13 :: 8ec20d1d-cfbd-42c7-9d34-5988961da8a6 :: 2025-08-15T03:36:54.000 :: 3788110 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755177660000,"IsInPlay":false,"FeedVersion":54794,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":1,"Venue":{}}
+cd1a3d0f-b1bd-411c-a0e1-5d25405878cc :: ee9b4a16-a009-4693-9f2a-f3351206ce32 :: 2025-08-15T13:21:35.000 :: 3789833 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755177660000,"IsInPlay":true,"FeedVersion":54814,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":3,"Venue":{}}
+a0f28899-18b8-49a0-b2ac-6ccf9cdde521 :: 47628275-f7dd-4e79-bf18-4a2c3ac4c806 :: 2025-08-15T22:12:24.000 :: 3807909 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755177660000,"IsInPlay":false,"FeedVersion":104662,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":1,"Venue":{}}
+fc12b023-587c-421e-aa75-45e1d41d8e75 :: 0ee2c028-898b-4f0b-afff-d081437a179b :: 2025-08-15T22:12:25.000 :: 3807910 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755264060000,"IsInPlay":false,"FeedVersion":104663,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":1,"Venue":{}}
+4cbf3179-dcaa-439e-b98b-264eea348c3f :: f95cf567-61e3-470b-af62-024d0877cffb :: 2025-08-15T22:44:28.000 :: 3808015 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755358740000,"IsInPlay":false,"FeedVersion":104892,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":1,"Venue":{}}
+dad50c25-6e58-474a-a847-aaf503c51f20 :: 5cfc4435-97f3-4d9e-9239-29a24eca72f4 :: 2025-08-15T22:44:58.000 :: 3808020 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755352860000,"IsInPlay":false,"FeedVersion":104917,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":1,"Venue":{}}
+06d305c8-a299-4021-a187-0d6e0322df5d :: 08ad3577-8946-47fd-84a9-6a68f528aa27 :: 2025-08-15T22:45:48.000 :: 3808044 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755350220000,"IsInPlay":false,"FeedVersion":104975,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":1,"Venue":{}}
+6247bf8d-fcb7-4405-a8b3-5c66b0efab61 :: badae62c-682e-4210-b122-cbeed4bf83be :: 2025-08-16T00:55:44.000 :: 3808414 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755350220000,"IsInPlay":false,"FeedVersion":105270,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":1,"Venue":{}}
+40f75494-75b9-45e7-b5d9-520a979d4f44 :: 4ed2c54e-48f7-40e0-a126-965c550b9388 :: 2025-08-16T13:10:00.000 :: 3812224 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755177660000,"IsInPlay":false,"FeedVersion":105968,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":1,"Venue":{}}
+40f75494-75b9-45e7-b5d9-520a979d4f44 :: 4e4c4a13-bac5-4667-814e-17de95e83892 :: 2025-08-16T13:10:00.000 :: 3812225 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755177660000,"IsInPlay":true,"FeedVersion":105969,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":3,"Venue":{}}
+e079d0ac-9af4-4d71-a66f-7d17df6873f6 :: 70215744-b913-43ba-9834-a14c3598fb07 :: 2025-08-16T13:10:28.000 :: 3812233 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755177660000,"IsInPlay":false,"FeedVersion":105970,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":1,"Venue":{}}
+c9d47c45-f6b2-45d2-a36e-1fa1a99d7009 :: 77bb4938-e75e-437d-9efb-341cbadde3f2 :: 2025-08-16T13:10:30.000 :: 3812234 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755177660000,"IsInPlay":true,"FeedVersion":105971,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":3,"Venue":{}}
+dab76c92-e8b7-4136-b03f-b404eff87fb0 :: d12bffd0-4fed-4e50-8278-22aa1bea2d0f :: 2025-08-16T21:58:12.000 :: 3833887 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755177660000,"IsInPlay":false,"FeedVersion":153909,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":1,"Venue":{}}
+9a2def61-d454-4f6b-862c-c3014affe90e :: 2368e5d9-f877-40ae-88d4-a9bc312d1481 :: 2025-08-16T21:58:13.000 :: 3833891 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755264060000,"IsInPlay":false,"FeedVersion":153917,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":1,"Venue":{}}
+996407df-9101-4ece-9b9e-bdf785e00fa2 :: 374c82a9-70b1-473d-b6aa-a0dda04c078f :: 2025-08-16T22:39:13.000 :: 3834058 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755438300000,"IsInPlay":false,"FeedVersion":154154,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":1,"Venue":{}}
+620773b9-fae9-4221-8f9a-213eb82789a0 :: 5c2853f2-aa67-4d93-aa3f-7c14d5cf31ed :: 2025-08-16T22:40:03.000 :: 3834060 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755436320000,"IsInPlay":false,"FeedVersion":154221,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":1,"Venue":{}}
+85768d02-a6e7-4d9f-8b58-6e40a913247e :: fc1834f0-f785-4a01-ba36-cef733364193 :: 2025-08-16T23:06:41.000 :: 3834181 :: FixtureUpdated
+{"FixtureId":"4000030783","StartTimeEpochMilliseconds":1755436320000,"IsInPlay":false,"FeedVersion":154573,"Metadata":{"2":"1127","1":"comp.golf_413"},"IsOpen":true,"IsDisplayed":true,"Status":1,"Venue":{}}
